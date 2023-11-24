@@ -1,0 +1,24 @@
+# Node.js
+node_modules/
+
+# Dependency directories
+/e2e/
+/.pnp/
+.pnp.js
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn
+yarn-error.log
+yarn.lock
+.pnp.js
